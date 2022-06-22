@@ -14,7 +14,9 @@ Sigue las instrucciones del video.
 
 Mucha suerte en esta pequeña aventura porfavor no mejodas con el codigo porque no lo encontre :(
 
+# IP de panel de configuración 
 
+`ip:172.217.28.254`
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lqOvyCbx0uo
 " target="_blank"><img src="http://img.youtube.com/vi/lqOvyCbx0uo/0.jpg" 
