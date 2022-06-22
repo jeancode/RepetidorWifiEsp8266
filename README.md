@@ -5,6 +5,16 @@ Descarga los archivos necesarios para poder  cargar el binario a tu targeta node
 
 Sigue las instrucciones del video.
 
+# Contraseña de Golden Extender por defecto 
+`Password:123456789`
+
+# Usuario y Contraseña del panel de configuración
+`usuario:root`
+`password:1234567`
+
+Mucha suerte en esta pequeña aventura porfavor no mejodas con el codigo porque no lo encontre :(
+
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lqOvyCbx0uo
 " target="_blank"><img src="http://img.youtube.com/vi/lqOvyCbx0uo/0.jpg" 
